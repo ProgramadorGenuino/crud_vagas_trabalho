@@ -1,0 +1,4 @@
+[
+  { "_id":"1", "cnpj":"5456556564", "nome":"Julios", "email":"reidelas@gmail.com", "confirma_email":"sim", "area_atuacao":"plantador de bananeira", "telefone":"4002-8922", "fax":"456456456" },
+  { "_id":"1", "cnpj":"5456556564", "nome":"Jeruindio", "email":"reidelas@gmail.com", "confirma_email":"sim", "area_atuacao":"plantador de bananeira", "telefone":"4002-8922", "fax":"456456456" }
+]
